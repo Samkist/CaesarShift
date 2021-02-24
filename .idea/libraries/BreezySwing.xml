@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BreezySwing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BreezySwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
